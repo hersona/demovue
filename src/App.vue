@@ -2,7 +2,7 @@
     <div id="app" class="app">
         <img alt="Vue logo" src="./assets/imgs/LogoAxa.jpg" /> 
         <HelloWorld msg="Welcome to Venv Generator" />      
-        
+        Demo Hersons
     </div>
 </template>
 
